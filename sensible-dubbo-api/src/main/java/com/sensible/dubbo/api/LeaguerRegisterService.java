@@ -6,5 +6,5 @@ package com.sensible.dubbo.api;
  * @date 2020/3/4 000416:26
  */
 public interface LeaguerRegisterService {
-    public void Regist(String userName,String phone);
+    public String regist(String userName, String phone);
 }

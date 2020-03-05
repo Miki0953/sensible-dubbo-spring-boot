@@ -1,10 +1,10 @@
-package SensibleDubboProvider;
+package com.sensible.dubbo.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SensibleDubboProviderApplicationTests {
+class SensibleDubboConsumerApplicationTests {
 
     @Test
     void contextLoads() {
